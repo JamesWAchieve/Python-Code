@@ -1,0 +1,15 @@
+# This code is to Loop the current fruits into 3 rows.
+fruits = ['banana', 'apple',  'mango']
+for index in range(len(fruits)):
+   print('Current fruit :', fruits[index])
+
+print("Good bye!")
+
+#this code is to create variables
+counter = 523         
+miles   = 2456.231       
+name    = "Gerald"       
+
+print (counter)
+print (miles)
+print (name)
